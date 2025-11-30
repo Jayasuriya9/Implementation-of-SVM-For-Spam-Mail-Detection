@@ -20,8 +20,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: Nethraa J
-RegisterNumber:  212222100031
+Developed by: J Jayasuriya
+RegisterNumber:  212223230088
 */
 ```
 ```python
